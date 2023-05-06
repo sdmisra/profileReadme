@@ -4,7 +4,7 @@
 
 
 ### About Me:  
-I am a full time web application developer with a foundation in frontend technologies. I currently reside in Colorado, and when I am not coding I enjoy painting, drumming, and soaking in the natural world around me.
+I am a full time web application developer with a foundation in frontend technologies. I currently reside in Colorado, and when I am not coding I enjoy painting, reading, drumming, and soaking in the natural world around me.
 
 I am always eager to communicate about new technologies and project ideas, so please reach out if you would like to discuss either my previous work or something we might work on together in the future!  
   
